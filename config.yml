@@ -1,5 +1,5 @@
-baseURL: "https://autodidact24.github.io/autodidact24/"
-title: ExampleSite
+baseURL: "https://autodidact24.github.io/"
+title: Notes for Life
 paginate: 5
 theme: "PaperMod"
 
