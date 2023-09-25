@@ -1,5 +1,5 @@
 Hey there, I'm Shubham! 👋  
-I'm a Senior Data Scientist and a Business Analytics Enthusiast! 📊🌟  
+I'm a Data Scientist and an Education and Community Enthusiast! 📊🌟  
 I am originally from India 🇮🇳 and working between New Delhi and Singapore 🌏. Passionate about improving learning experiences and stakeholder interactions. You can find more about me on [LinkedIn](https://www.linkedin.com/in/shubhamtomar).
 
 I enjoy meeting new people and discussing innovative ideas. Let's connect and brainstorm! 🤓
